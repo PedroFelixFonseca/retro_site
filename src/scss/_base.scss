@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img,
+video {
+  display: block;
+}
+
+body {
+  min-height: 100vh;
+  background: url("/src/img/background_gradient_1.webp") center / cover no-repeat;
+}
